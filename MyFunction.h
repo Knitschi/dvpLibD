@@ -6,5 +6,5 @@
 
 CPF_VERSIONED_NAMESPACE(dvpLibD)
 {
-	DVPLIBC_EXPORT bool isCoolMan();
+	DVPLIBD_EXPORT bool isCoolMan();
 }

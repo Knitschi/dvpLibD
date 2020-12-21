@@ -4,7 +4,7 @@
 CPF_VERSIONED_NAMESPACE(dvpLibD)
 {
 
-	bool isCoolMan() const
+	bool isCoolMan()
 	{
 		return true;
 	}
