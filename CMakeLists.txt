@@ -30,3 +30,4 @@ cpfAddCppPackage(
 )
 
 cpfSetupInCodeVersionMechanism()
+
